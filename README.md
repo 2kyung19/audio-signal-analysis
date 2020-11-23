@@ -17,3 +17,6 @@ voice.wav 파일 생성
 <code>python mfcc.py</code>
 
 MFCC.wav 파일 분석 > 아야어여오요우유으이
+
+---
+https://www.notion.so/2kyung19/50755f07426b44208e91939380edab3c
