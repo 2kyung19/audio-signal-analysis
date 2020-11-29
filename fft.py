@@ -2,7 +2,7 @@ import numpy as np
 import librosa, librosa.display
 import matplotlib.pyplot as plt
 
-file = "이경은.wav"
+file = "./sound/이경은.wav"
 
 #Fourier -> Spectrum
 sig, sr = librosa.load(file, sr=None)
